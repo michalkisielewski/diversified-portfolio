@@ -1,0 +1,28 @@
+{
+  "Exchanges": {
+    "Exante": {
+      "DataEndpoint": "https://api-live.exante.eu/md/2.0/",
+      "Secret": "",
+      "ClientId": "",
+      "AppId": ""
+    },
+    "Coinbase": {
+      "DataEndpoint": "https://api.coinbase.com/v2/",
+      "ApiKey": "",
+      "SecretKey": ""
+    },
+    "Binance": {
+      "DataEndpoint": "https://api.binance.com",
+      "ApiKey": "",
+      "SecretKey": ""
+    },
+    "Xtb": {
+      "AccountId": ""
+    },
+    "Ether": {
+      "DataEndpoint": "https://api.etherscan.io/api",
+      "ApiKey": "",
+      "AccountAddress": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "DiversifiedPortfolio.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "portfolio?currency=PLN",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
